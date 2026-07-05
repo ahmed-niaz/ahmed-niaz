@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **javascript,typescript,React,node js and so on**
+- 🌱 I’m currently learning **nestjs,docker,ngnix,aws and many more**
 
 - 📫 How to reach me **niazahmed.an@gmail.com**
 
